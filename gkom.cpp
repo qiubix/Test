@@ -3,7 +3,7 @@
  *
  * Program stanowi zaadaptowana wersje przykladu accnot.c.
  */
-
+//Karol jest mistrzem Javy
 #include <windows.h>
 #include <GL/gl.h>
 #include "glut.h"
